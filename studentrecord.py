@@ -43,7 +43,7 @@ def  view_data():
         print(f"{type({s["id"]})}")
 def search():
     data = load_data()
-    check_id = int(input("Enter Student Id: "))
+    check_id = int(input("Enter  Id: "))
     for s in data:
         if str(check_id) in str(s["id"]):
             print("Student Found")
