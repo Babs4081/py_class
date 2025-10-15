@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Basit",
+        "bal": 50000,
+        "pin": 3030,
+        "account_no": 81235263
+    },
+    {
+        "name": "Danny",
+        "bal": 40000,
+        "pin": 3060,
+        "account_no": 81289387
+    },
+    {
+        "name": "Garyy",
+        "bal": 60000,
+        "pin": 4040,
+        "account_no": 81237907
+    },
+    {
+        "name": "Zaddy",
+        "bal": 4000,
+        "pin": 1010,
+        "account_no": 81069071
+    },
+    {
+        "name": "peter",
+        "bal": 0,
+        "pin": 1234,
+        "account_no": 81283772
+    }
+]
